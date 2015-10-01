@@ -1,0 +1,18 @@
+`python`で実行した時と、実行権限をつけたときで挙動が変わる
+`__name__ == '__main__'`つけた時は、実行権限
+
+`arparser`で引数
+
+withコマンド、ファイルのオープン・クローズ
+
+format
+join
+
+__ = private scope クラスの外からは見えない
+
+*args:args
+**kwargs:keyword = args
+のこと
+
+
+https://github.com/2tom/python_study/blob/master/milty/line-converter/run.py
