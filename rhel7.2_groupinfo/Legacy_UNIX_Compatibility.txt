@@ -1,0 +1,27 @@
+Loaded plugins: amazon-id, rhui-lb, search-disabled-repos
+
+Group: Legacy UNIX Compatibility
+ Group-Id: legacy-unix
+ Description: Compatibility programs for migration from or working with legacy UNIX environments.
+ Optional Packages:
+   authd
+   cups-lpd
+   finger
+   finger-server
+   ksh
+   mksh
+   ncompress
+   rsh
+   rsh-server
+   rusers
+   rusers-server
+   rwho
+   talk
+   talk-server
+   tcp_wrappers
+   telnet
+   telnet-server
+   tftp
+   xinetd
+   ypbind
+   ypserv

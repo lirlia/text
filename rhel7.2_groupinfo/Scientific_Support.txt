@@ -1,0 +1,23 @@
+Loaded plugins: amazon-id, rhui-lb, search-disabled-repos
+
+Group: Scientific Support
+ Group-Id: scientific
+ Description: Tools for mathematical and scientific computations, and parallel computing.
+ Optional Packages:
+   atlas
+   fftw
+   fftw-devel
+   fftw-static
+   gnuplot
+   gsl-devel
+   lapack
+   mpich
+   mpitests-mvapich2
+   mpitests-openmpi
+   mvapich2
+   mvapich2-psm-devel
+   numpy
+   openmpi
+   openmpi-devel
+   scipy
+   units

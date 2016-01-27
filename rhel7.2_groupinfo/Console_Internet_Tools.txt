@@ -1,0 +1,13 @@
+Loaded plugins: amazon-id, rhui-lb, search-disabled-repos
+
+Group: Console Internet Tools
+ Group-Id: console-internet
+ Description: Console internet access tools, often used by administrators.
+ Optional Packages:
+   elinks
+   fetchmail
+   ftp
+   irssi
+   lftp
+   mutt
+   whois

@@ -1,0 +1,18 @@
+Loaded plugins: amazon-id, rhui-lb, search-disabled-repos
+
+Group: Graphical Administration Tools
+ Group-Id: graphical-admin-tools
+ Description: Graphical system administration tools for managing many aspects of a system.
+ Optional Packages:
+   authconfig-gtk
+   gnome-disk-utility
+   gnome-packagekit
+   policycoreutils-gui
+   setools-console
+   setroubleshoot
+   system-config-kdump
+   system-config-kickstart
+   system-config-users
+   wireshark-gnome
+ Conditional Packages:
+   +system-config-users-docs

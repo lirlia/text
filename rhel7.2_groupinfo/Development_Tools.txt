@@ -1,0 +1,66 @@
+Loaded plugins: amazon-id, rhui-lb, search-disabled-repos
+
+Group: Development Tools
+ Group-Id: development
+ Description: A basic development environment.
+ Mandatory Packages:
+   +autoconf
+   +automake
+    binutils
+   +bison
+   +flex
+   +gcc
+   +gcc-c++
+    gettext
+   +libtool
+    make
+   +patch
+    pkgconfig
+   +redhat-rpm-config
+   +rpm-build
+   +rpm-sign
+ Default Packages:
+   +byacc
+   +cscope
+   +ctags
+   +diffstat
+   +doxygen
+    elfutils
+   +gcc-gfortran
+   +git
+   +indent
+   +intltool
+   +patchutils
+   +rcs
+   +subversion
+   +swig
+   +systemtap
+ Optional Packages:
+   ElectricFence
+   ant
+   babel
+   bzr
+   chrpath
+   cmake
+   compat-gcc-44
+   compat-gcc-44-c++
+   compat-gcc-44-g77
+   cvs
+   dejagnu
+   expect
+   gcc-gnat
+   gcc-objc
+   gcc-objc++
+   imake
+   javapackages-tools
+   ksc
+   libstdc++-docs
+   mercurial
+   mod_dav_svn
+   nasm
+   perltidy
+   python-docs
+   rpmdevtools
+   rpmlint
+   systemtap-sdt-devel
+   systemtap-server

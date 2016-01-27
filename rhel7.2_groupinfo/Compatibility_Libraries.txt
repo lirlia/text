@@ -1,0 +1,15 @@
+Loaded plugins: amazon-id, rhui-lb, search-disabled-repos
+
+Group: Compatibility Libraries
+ Group-Id: compat-libraries
+ Description: Compatibility libraries for applications built on previous versions of Red Hat Enterprise Linux.
+ Mandatory Packages:
+   +compat-db47
+   +compat-glibc
+   +compat-libcap1
+   +compat-libf2c-34
+   +compat-libgfortran-41
+   +compat-libtiff3
+   +compat-openldap
+   +libpng12
+   +openssl098e

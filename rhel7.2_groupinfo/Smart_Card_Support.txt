@@ -1,0 +1,12 @@
+Loaded plugins: amazon-id, rhui-lb, search-disabled-repos
+
+Group: Smart Card Support
+ Group-Id: smart-card
+ Description: Support for using smart card authentication.
+ Default Packages:
+   +coolkey
+   +esc
+   +pam_pkcs11
+   +pcsc-lite-ccid
+ Optional Packages:
+   opencryptoki

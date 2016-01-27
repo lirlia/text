@@ -1,0 +1,14 @@
+Loaded plugins: amazon-id, rhui-lb, search-disabled-repos
+
+Group: System Management
+ Group-Id: system-management
+ Description: Various low-level hardware management frameworks.
+ Optional Packages:
+   OpenIPMI
+   fence-agents-all
+   freeipmi
+   freeipmi-bmc-watchdog
+   freeipmi-ipmidetectd
+   ipmitool
+   openhpi
+   watchdog

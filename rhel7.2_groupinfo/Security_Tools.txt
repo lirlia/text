@@ -1,0 +1,18 @@
+Loaded plugins: amazon-id, rhui-lb, search-disabled-repos
+
+Group: Security Tools
+ Group-Id: security-tools
+ Description: Security tools for integrity and trust verification.
+ Default Packages:
+   +scap-security-guide
+ Optional Packages:
+   aide
+   hmaccalc
+   openscap
+   openscap-utils
+   scap-workbench
+   strongimcv
+   tncfhh
+   tpm-quote-tools
+   tpm-tools
+   trousers

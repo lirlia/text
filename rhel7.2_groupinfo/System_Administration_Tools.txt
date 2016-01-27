@@ -1,0 +1,25 @@
+Loaded plugins: amazon-id, rhui-lb, search-disabled-repos
+
+Group: System Administration Tools
+ Group-Id: system-admin-tools
+ Description: Utilities useful in system administration.
+ Optional Packages:
+   conman
+   crypto-utils
+   dump
+   expect
+   hardlink
+   lsscsi
+   mc
+   mgetty
+   pexpect
+   rdist
+   rear
+   rrdtool
+   screen
+   scrub
+   snapper
+   symlinks
+   system-storage-manager
+   tree
+   xdelta
